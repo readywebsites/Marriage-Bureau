@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-s=nm2xwjd^gxcjuha%t1-=5@10q!y302fp06p+b%%j^q_wme5l
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['allindiamarraigebureau.biz499.com','www.allindiamarraigebureau.biz499.com']
+ALLOWED_HOSTS = ['allindiamarraigebureau.biz499.com','www.allindiamarraigebureau.biz499.com', '127.0.0.1']
 
 
 # Application definition
