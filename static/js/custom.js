@@ -297,7 +297,8 @@ Version: 1.0
 					styles('#first', -70, 55, -50, 0.6, 'none',7);
 					styles('#second', 0, 0, 0, 1, shadow,8);
 				});
-	});
+	
+    });
 })();
 
 
